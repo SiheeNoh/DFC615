@@ -7,7 +7,6 @@
     • 영화 리뷰를 바탕으로 긍정/부정을 예측 
     • NSMC 다운로드 :  https://github.com/e9t/nsmc
       [ 학습 모델 - 나이브 베이즈, Tf-idf, 형태소 분석기, (1,2)-gram ]
-      감성 분석 :  나이브 베이즈 분류 모형을 이용하여 문서에 대한 감성 분석(sentiment analysis) 실행
         > 감성 분석이란 문서에 대해 좋다(positive) 혹은 나쁘다(negative)는 평가를 내리는 것
        샘플 데이터로는 github에 올려져 있는 네이버 영화 감상평에 대한 감성 분석 예제 이용
         > https://github.com/e9t/nsmc
