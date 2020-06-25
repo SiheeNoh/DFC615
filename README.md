@@ -1,6 +1,6 @@
 # DFC615
 
-1. 실험 환경 : Google colab 활용
+1.실험 환경 : Google colab 활용
 
 2.학습 데이터 
   1. 한국어 감정 분석 
