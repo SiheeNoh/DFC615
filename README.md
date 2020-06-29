@@ -20,4 +20,5 @@
      dic = {'anger':0, 'disgust':1, 'fear':2, 'joy':3, 'neutral':4, 'non-neutral':5, 'sadness':6, 'surprise':7}
      
 
+실행환경 : colab
 
